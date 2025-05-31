@@ -7,8 +7,8 @@ import { TokenFactory } from "../typechain-types";
 const FACTORY_ADDRESS = "0x8FF02FC12dc4B3cA9A64F4E708b57541019D03CC";
 
 // Parameter untuk token baru
-const TOKEN_NAME = "Monad Test Token";
-const TOKEN_SYMBOL = "MTT";
+const TOKEN_NAME = "MJDEV Monad Test Token";
+const TOKEN_SYMBOL = "MJDEV";
 const INITIAL_SUPPLY = 1000000; // 1 juta token
 
 async function main() {
